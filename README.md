@@ -1,1 +1,1 @@
-# iplab2
+Exp1 cv without css:https://github.com/Utkarsh490/iplab2/blob/main/Exp1/cv.html Exp2 cv with css : https://github.com/Utkarsh490/iplab2/blob/main/Exp2/index.html Exp3 home page : https://github.com/Utkarsh490/iplab2/blob/main/Exp3/index.html Exp4 js validation : https://github.com/Utkarsh490/iplab2/blob/main/exp4/index.html
